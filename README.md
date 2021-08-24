@@ -1,3 +1,5 @@
 # happybirthday
-帮基友做的，祝福她女朋友生日快乐
-https://shibobo.github.io/happybirthday/
+女友生日快乐
+
+https://hedyjing.github.io/birthday/
+
